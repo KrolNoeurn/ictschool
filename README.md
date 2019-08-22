@@ -1,10 +1,10 @@
 ICTSchool
 =========
 
-ICTSchool is laravel based school managment software developed by ICT Innovations , It is complete school managment system with sms and voice based communictions integeration,  ICTSchool automate the school's communications process effectivly and  it makes  communications between parents / teachers / school managment and students much easy and effective. 
+ICTSchool is laravel based school management software developed by ICT Innovations , It is complete school management system with sms and voice based communictions integeration,  ICTSchool automate the school's communications process effectivly and  it makes  communications between parents / teachers / school management and students much easy and effective. 
 
 
-School managment system feature list
+School management system feature list
 ====================================
 
 #### Dasboard
